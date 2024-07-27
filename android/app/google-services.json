@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75536596026",
+    "project_id": "railway-2c07d",
+    "storage_bucket": "railway-2c07d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75536596026:android:63fdd557b75c907efbc903",
+        "android_client_info": {
+          "package_name": "com.example.railways_shiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75536596026-4p2rs8gdo45sanqte44fe1ivhpmtpjs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.railways_shiva",
+            "certificate_hash": "84abf7aa742266f0dd25d19ee5ecc1025ce7c197"
+          }
+        },
+        {
+          "client_id": "75536596026-3vrf4gsk61t1tuvcqffcuskk68cdaffb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqo8t8vi9PRgxCxCuLursGlmYh8c22TBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75536596026-3vrf4gsk61t1tuvcqffcuskk68cdaffb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
