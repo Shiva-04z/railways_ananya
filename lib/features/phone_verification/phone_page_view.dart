@@ -44,7 +44,7 @@ class PhonePageView extends GetView<PhonePageController> {
                             enabled: !controller.otpSent.value,
                             decoration: InputDecoration(
                               labelText: "Mobile Number",
-                              hintText: "Enter Phone Number",
+                              hintText: "Enter Mobile Number",
                               prefixText: "+91",
                               prefixIcon: const Icon(Icons.phone),
                               border: OutlineInputBorder(

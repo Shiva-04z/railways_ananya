@@ -3,15 +3,9 @@
     package="com.example.railways_shiva">
 
 
-
-
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.RECEIVE_SMS"
         tools:ignore="PermissionImpliesUnsupportedChromeOsHardware" />
-
-
-
-
     <application
         android:label="apankaapp"
         android:name="${applicationName}"
